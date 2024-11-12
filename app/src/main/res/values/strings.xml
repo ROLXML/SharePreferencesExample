@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">SharedPreferencesExample</string>
+    <string name="judul" translatable="false">Shared Preferences</string>
+    <string name="save_data" translatable="false">Save Data</string>
+    <string name="load_data" translatable="false">Load Data</string>
+    <string name="first_name" translatable="false">First Name</string>
+    <string name="last_name" translatable="false">Last Name</string>
+    <string name="output_data" translatable="false">Output Data</string>
+    <string name="next_activity" translatable="false">Next Activity</string>
+</resources>
